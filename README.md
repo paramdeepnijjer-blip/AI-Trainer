@@ -10,6 +10,10 @@ Real-time exercise form tracker using computer vision to count bicep curls with 
 
 AI Fitness Trainer uses MediaPipe Pose estimation to track body landmarks in real-time and automatically count bicep curl repetitions. The system provides visual feedback with a progress bar, rep counter, and FPS display.
 
+## 🎥 Demo
+
+![AI Trainer Demo](screenshots/demo.png)
+
 ## ✨ Features
 
 - **Real-time pose detection** using MediaPipe Pose
