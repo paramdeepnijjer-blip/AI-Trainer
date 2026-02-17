@@ -12,7 +12,7 @@ AI Fitness Trainer uses MediaPipe Pose estimation to track body landmarks in rea
 
 ## 🎥 Demo
 
-![AI Trainer Demo](screenshots/demo.png)
+![AI Trainer Demo](demo.png)
 
 ## ✨ Features
 
